@@ -1,0 +1,81 @@
+Net Status Report
+Filename     : C:\project\Handheld_Terminal\PCB1.PcbDoc
+Date         : 2023/5/30
+Time         : 14:15:48
+Time Elapsed : 00:00:00
+
+Nets, Layer, Length
+    +3.3V, Signal Layers Only, 954.094mils
+    +3.3VA, Signal Layers Only, 1084.858mils
+    3V3, Signal Layers Only, 2097.945mils
+    BOOT0, Signal Layers Only, 1067.862mils
+    CE, Signal Layers Only, 596.954mils
+    D+, Signal Layers Only, 228.096mils
+    D-, Signal Layers Only, 302.794mils
+    DTR, Signal Layers Only, 235.661mils
+    GND, Signal Layers Only, 1910.047mils
+    GNDA, Signal Layers Only, 557.43mils
+    LED, Signal Layers Only, 911.091mils
+    NetANT1_1, Signal Layers Only, 195.666mils
+    NetBK1_1, Signal Layers Only, 184.822mils
+    NetBK1_10, Signal Layers Only, 314.969mils
+    NetBK1_11, Signal Layers Only, 159.143mils
+    NetBK1_12, Signal Layers Only, 222.527mils
+    NetBK1_17, Signal Layers Only, 115.732mils
+    NetBK1_30, Signal Layers Only, 322.745mils
+    NetBK1_31, Signal Layers Only, 299.234mils
+    NetBK1_7, Signal Layers Only, 111.924mils
+    NetBK1_9, Signal Layers Only, 195.568mils
+    NetC14_1, Signal Layers Only, 654.917mils
+    NetC1_2, Signal Layers Only, 394.081mils
+    NetC26_2, Signal Layers Only, 309.051mils
+    NetC27_2, Signal Layers Only, 290.376mils
+    NetC38_1, Signal Layers Only, 211.109mils
+    NetC38_2, Signal Layers Only, 211.912mils
+    NetC3_2, Signal Layers Only, 1179.974mils
+    NetC40_2, Signal Layers Only, 278.864mils
+    NetC41_2, Signal Layers Only, 374.428mils
+    NetC42_2, Signal Layers Only, 204.117mils
+    NetC43_2, Signal Layers Only, 220.859mils
+    NetC7_2, Signal Layers Only, 328.005mils
+    NetC8_1, Signal Layers Only, 253.546mils
+    NetC8_2, Signal Layers Only, 132.508mils
+    NetD1_2, Signal Layers Only, 425.275mils
+    NetIC1_5, Signal Layers Only, 739.142mils
+    NetIC1_6, Signal Layers Only, 672.025mils
+    NetLED1_1, Signal Layers Only, 129.144mils
+    NetLED2_1, Signal Layers Only, 119.342mils
+    NetQ1_1, Signal Layers Only, 346.661mils
+    NetQ2_1, Signal Layers Only, 77.048mils
+    NetQ2_3, Signal Layers Only, 208.805mils
+    NetR14_1, Signal Layers Only, 144.669mils
+    NetR15_1, Signal Layers Only, 133.636mils
+    NetR16_1, Signal Layers Only, 166.369mils
+    NetR17_1, Signal Layers Only, 342.278mils
+    NetR18_1, Signal Layers Only, 692.339mils
+    NetR19_1, Signal Layers Only, 652.006mils
+    NetR22_2, Signal Layers Only, 886.801mils
+    NetR25_2, Signal Layers Only, 334.86mils
+    NetR26_1, Signal Layers Only, 475.707mils
+    NetR3_1, Signal Layers Only, 121.605mils
+    PA13, Signal Layers Only, 278.753mils
+    PA14, Signal Layers Only, 144.96mils
+    RESET, Signal Layers Only, 1820.833mils
+    RTS, Signal Layers Only, 484.952mils
+    RX, Signal Layers Only, 1069.462mils
+    SCK, Signal Layers Only, 1214.925mils
+    SDA, Signal Layers Only, 1386.782mils
+    TX, Signal Layers Only, 1072.991mils
+    UDM, Signal Layers Only, 197.626mils
+    UDP, Signal Layers Only, 240.865mils
+    USB_5V, Signal Layers Only, 1143.152mils
+    VBUS, Signal Layers Only, 584.682mils
+    VDDA, Signal Layers Only, 422.977mils
+    VSSA, Signal Layers Only, 500.166mils
+    pcm_lrck, Signal Layers Only, 414.726mils
+    pcm_mclk, Signal Layers Only, 595.857mils
+    pcm_sck, Signal Layers Only, 482.116mils
+    pcm_sda, Signal Layers Only, 586.173mils
+    pwm1, Signal Layers Only, 1566.55mils
+    pwm2, Signal Layers Only, 2295.704mils
+count : 73
