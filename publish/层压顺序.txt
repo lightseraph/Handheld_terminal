@@ -1,0 +1,1 @@
+Top Layer ---- GND02 ---- SIG03 ---- PWR04 ---- GND05 ---- Bottom Layer
