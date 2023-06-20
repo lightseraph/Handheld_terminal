@@ -66,7 +66,7 @@ GenerateClassCluster=0
 DocumentUniqueId=ZUIYXKVN
 
 [Document2]
-DocumentPath=..\..\NixieClock\Nixie\Nixie.SCHLIB
+DocumentPath=..\..\Nixie\Nixie.SCHLIB
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -83,7 +83,7 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document3]
-DocumentPath=..\..\NixieClock\Nixie\PcbLib1.PcbLib
+DocumentPath=..\..\Nixie\PcbLib1.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
